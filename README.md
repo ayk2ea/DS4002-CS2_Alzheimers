@@ -1,7 +1,7 @@
 # Alzheimer’s Image Classification Case Study
 ### A DS 4002 Case Study by Ashley Kim
 
-![Spotify mixes](https://storage.googleapis.com/pr-newsroom-wp/1/2021/03/SPOTIFY_US_FOR-THE-RECORD_PR-ASSET_032521_V2_CF-01.jpg)
+![Alzheimer stages](https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Falzrt47/MediaObjects/13195_2010_Article_30_Fig2_HTML.jpg?as=webp)
 
 ## Hook and Rubric Documents
 The hook document outlining the case study is the file labeled [CS2Hook_Alzheimers.pdf](/CS2Hook_Alzheimers.pdf). The rubric [CS2Rubric_Alzheimers.pdf](/CS2Rubric_Alzheimers.pdf) outlines the formatting, submission requirements, final deliverables for this assignment. Both documents should be referenced continously throughout your completion of the case study to guarantee success on the assignment.
