@@ -1,4 +1,4 @@
-Link to the Kaggle dataset is here: https://www.kaggle.com/datasets/shahidzikria/alz-dataset
+Link to the Kaggle dataset: https://www.kaggle.com/datasets/shahidzikria/alz-dataset
 
 #### Data Dictionary
 | Column | Data Type | Description |
