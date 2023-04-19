@@ -1,3 +1,6 @@
+Link to the Kaggle dataset is here: https://www.kaggle.com/datasets/shahidzikria/alz-dataset
+
+#### Data Dictionary
 | Column | Data Type | Description |
 | --- | --- | --- |
 | nonDemented | Image | MRI scan presents no signs of dementia |
